@@ -1,0 +1,10 @@
+body {
+    background-size: cover;
+    }
+
+    hs {
+        font-size: 25px !important;
+    }
+    canvas {
+        border: 2px dotted palevioletred;
+    }
